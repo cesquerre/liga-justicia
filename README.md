@@ -10,6 +10,7 @@ Pueden hacer lo que quieran...
 
 ## fast forward only en pull
 
+## estos cambios son nuevos eee desde mi repositorio local
 ## estos cambios son nuevos eee
 
 ## otros cambios desde github
